@@ -203,7 +203,7 @@ if __name__ == "__main__":
             #time_end = time.time()
             #sum_t = (time_end - time_start) + sum_t
     T2 = time.time()
-    print( print('程序运行时间:%s毫秒' % ((T2 - T1)*1000)),
+    print(
         'Epoch: {}'.format(epoch_max1),
         'Accuracy_Max: {:.4f}'.format(acc_max1),
         'f1_max:{:.4f}'.format(f1_max1),
