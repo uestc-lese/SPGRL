@@ -11,7 +11,7 @@
 ````
 python main.py -d dataset -l labelrate
 ````
-* **dataset**: including \[citeseer, uai, acm, BlogCatalog, flickr, coraml\], required.  
+* **dataset**: including \[citeseer, uai, acm, BlogCatalog, flickr, cora\], required.  
 * **labelrate**: including \[20, 40, 60\], required.  
 
 e.g.  
