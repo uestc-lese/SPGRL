@@ -124,4 +124,4 @@ class GClip(torch.nn.Module):
         emb2 = h2 / h2.norm(dim=-1, keepdim=True)
         z = torch.cat((h1, h2), dim=1)
         out = self.MLP(z)
-        return out, A_pred1, A_pred2, emb1, emb2, self.logit_scale.exp(), smu, slogvar, fmu, flogvar
+        return out, A_pred1, A_pred2, emb1, emb2, self.logit_scale.exp()
