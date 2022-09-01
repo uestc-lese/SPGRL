@@ -6,7 +6,7 @@ We propose a new Structure-Preserving Graph Representation Learning method calle
 
 The module is illustrated as follows:
 
-<img src="./images/SPGRL.png" height="450">
+<img src="./SPGRL.png" height="450">
 
 # Environment Settings 
 * python == 3.8
