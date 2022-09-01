@@ -4,6 +4,10 @@
 
 We propose a new Structure-Preserving Graph Representation Learning method called **SPGRL**. Our main idea is maximizing the mutual information (MI) of the graph structure and feature embedding.
 
+The module is illustrated as follows:
+
+<img src="./images/SPGRL.png" height="450">
+
 # Environment Settings 
 * python == 3.8
 * Pytorch == 1.1.0  
