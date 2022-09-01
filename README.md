@@ -1,4 +1,4 @@
-# **SPGRL**
+# Structure-Preserving Graph Representation Learning（**SPGRL**）
 > The official code of **ICDM2022** paper: [**Structure-Preserving Graph Representation Learning**]
 > <br>Ruiyi Fang, Liangjian Wen, Zhao Kang, Jianzhuang Liu
 
