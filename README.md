@@ -1,4 +1,9 @@
-# SPGRL
+# **SPGRL**
+> The official code of **ICDM2022** paper: [**Structure-Preserving Graph Representation Learning**]
+> <br>Ruiyi Fang, Liangjian Wen, Zhao Kang, Jianzhuang Liu
+
+We propose a new Structure-Preserving Graph Representation Learning method called **SPGRL**. Our main idea is maximizing the mutual information (MI) of the graph structure and feature embedding.
+
 # Environment Settings 
 * python == 3.8
 * Pytorch == 1.1.0  
